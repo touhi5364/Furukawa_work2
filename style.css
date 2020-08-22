@@ -27,10 +27,10 @@
   font-weight: 600;
 }
 .wave-up svg {
-    height:80%;
+    height:70%;
     width: 100%;
     position: absolute;
-    top:100%;
+    top:90%;
     transform: rotate(180deg);
 
     z-index: -2;
@@ -42,7 +42,7 @@
   z-index: -1;
 }
 .wave-up2 svg {
-  height:80%;
+  height:70%;
   width: 100%;
   position: absolute;
   /* top:50%; */
@@ -57,10 +57,10 @@ position: absolute;
 z-index: -1;
 }
 .wave-up3 svg {
-  height:80%;
+  height:70%;
   width: 100%;
   position: absolute;
-  top:100%;
+  top:90%;
   transform: rotate(180deg);
 
   z-index: -2;
@@ -72,7 +72,7 @@ position: absolute;
 z-index: -1;
 }
 .wave-up4 svg {
-height:80%;
+height:70%;
 width: 100%;
 position: absolute;
 /* top:50%; */
